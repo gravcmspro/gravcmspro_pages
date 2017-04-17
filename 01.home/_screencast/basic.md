@@ -1,0 +1,23 @@
+[m-grid container="false"]
+  [m-grid-row attributes="class:no-margin"]
+    [m-grid-col attributes="class:s12 m12 l12 padding-large box-bg-secondary center text-full-white"]
+      D_SCREENCAST
+    [/m-grid-col]
+  [/m-grid-row]
+  [m-grid-row attributes="class:grey lighten-2"]
+    [m-grid-col attributes="class:s12 m12 l12 padding-top-bottom-large"]
+      [m-grid]
+        [m-grid-row]
+          [m-grid-col attributes="class:s12 m12 l6"]
+            D_VIDEO_1 {.center}
+            [m-video src="https://www.youtube.com/embed/tDh5qY_wEHE" attributes="class:box-small"][/m-video]
+          [/m-grid-col]
+          [m-grid-col attributes="class:s12 m12 l6"]
+            D_VIDEO_2 {.center}
+            [m-video src="https://www.youtube.com/embed/_Parv5MDL38" attributes="class:box-small"][/m-video]
+          [/m-grid-col]
+        [/m-grid-row]
+      [/m-grid]
+    [/m-grid-col]
+  [/m-grid-row]
+[/m-grid]
