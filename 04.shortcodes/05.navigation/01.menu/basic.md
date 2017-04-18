@@ -1,20 +1,20 @@
 ---
-title: Grav CMS Pro Documentation - Card
-slug: card
-menu: Card
+title: Grav CMS Pro Documentation - Menu
+slug: navigation-menu
+menu: Navigation menu
 date: '03/30/2017 6:00am'
 metadata:
-  description: This component renders a Materializer card component
+  description: This component implements a jumbotron element
   author: Grav CMS Pro
 
 dictionaries:
-  - shortcodes.cards.card
+  - shortcodes.navigation.menu
   - shortcodes.base-elements-documentation
   - shared
 ---
 
 <| SHARED.NAVBAR |>
 <| SHARED.DOCUMENTATION_HEADER |>
-<| SHARED.SIDENAV_SHORTCODES_CARDS |>
+<| SHARED.SIDENAV_SHORTCODES_NAVIGATION |>
 <| SHARED.GRID_SHORTCODE |>
 <| SHARED.FOOTER |>
