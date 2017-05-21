@@ -1,9 +1,9 @@
 ---
-title: GravCMS Pro the best solution to design professional websites
+title: Grav CMS Pro the best solution to design professional websites
 menu: Home
 metadata:
-  description: GravCMS Pro is the best solution to design professional websites. It is built on top of Grav open source Content Management System and Materialize framework
-  author: GravCMS Pro
+  description: Grav CMS Pro is the best solution to design professional websites. It is built on top of Grav open source Content Management System and Materialize framework
+  author: Grav CMS Pro
 
 dictionaries:
   - home
