@@ -1,10 +1,10 @@
 ---
 title: Grav CMS Pro Documentation - Icon circled
 slug: icon-circled
-menu: Icon circled
+menu: Icon circled (PRO)
 date: '03/30/2017 6:00am'
 metadata:
-  description: This component renders a circled icon. The circle can be full colored or just bordered
+  description: This shortcode renders a circled icon. The circle can be full colored or just bordered
   author: Grav CMS Pro
 
 dictionaries:

@@ -4,7 +4,7 @@ slug: card
 menu: Card
 date: '03/30/2017 6:00am'
 metadata:
-  description: This component renders a Materializer card component
+  description: This shortcode renders a Materializer card component
   author: Grav CMS Pro
 
 dictionaries:

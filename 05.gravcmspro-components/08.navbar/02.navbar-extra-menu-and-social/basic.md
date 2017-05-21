@@ -1,7 +1,7 @@
 ---
 title: Grav CMS Pro Documentation - Navbar with an extra menu and social buttons
 slug: navbar-extra-menu-and-social
-menu: Navbar with extra menu and social buttons
+menu: Navbar with extra menu and social buttons (PRO)
 date: '03/30/2017 6:00am'
 metadata:
   description: This component renders a rich navbar element with the company address ans social buttons on the too of the navbar

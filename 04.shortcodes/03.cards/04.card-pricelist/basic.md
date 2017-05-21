@@ -4,7 +4,7 @@ slug: pricelist-card
 menu: Pricelist Card
 date: '03/30/2017 6:00am'
 metadata:
-  description: This component renders a pricelist card
+  description: This shortcode renders a pricelist card
   author: Grav CMS Pro
 
 dictionaries:

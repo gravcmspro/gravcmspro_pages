@@ -4,7 +4,7 @@ slug: navbar
 menu: Navbar
 date: '03/30/2017 6:00am'
 metadata:
-  description: This component implements the Materializer navbar element
+  description: This shortcode implements the Materializer navbar element
   author: Grav CMS Pro
 
 dictionaries:

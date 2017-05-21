@@ -4,7 +4,7 @@ slug: icon
 menu: Icon
 date: '03/30/2017 6:00am'
 metadata:
-  description: This component renders an icon and supports serveral providers out of the box: Google, Fontawesome and MDI icons
+  description: This shortcode renders an icon and supports serveral providers out of the box: Google, Fontawesome and MDI icons
   author: Grav CMS Pro
 
 dictionaries:

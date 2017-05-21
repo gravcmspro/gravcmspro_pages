@@ -4,7 +4,7 @@ slug: html-tag
 menu: Html tag
 date: '03/30/2017 6:00am'
 metadata:
-  description: This component renders an html tag
+  description: This shortcode renders an html tag
   author: Grav CMS Pro
 
 dictionaries:

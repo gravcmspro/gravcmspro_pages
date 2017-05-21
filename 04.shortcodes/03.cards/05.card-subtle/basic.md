@@ -1,10 +1,10 @@
 ---
 title: Grav CMS Pro Documentation - Subtle Card
 slug: subtle-card
-menu: Subtle Card
+menu: Subtle Card (PRO)
 date: '03/30/2017 6:00am'
 metadata:
-  description: This component renders a subtle card
+  description: This shortcode renders a subtle card
   author: Grav CMS Pro
 
 dictionaries:

@@ -4,7 +4,7 @@ slug: grid
 menu: Grid
 date: '03/30/2017 6:00am'
 metadata:
-  description: This component handles the Materializer grid component
+  description: This shortcode handles the Materializer grid component
   author: Grav CMS Pro
 
 dictionaries:

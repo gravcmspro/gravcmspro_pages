@@ -4,7 +4,7 @@ slug: navigation-menu
 menu: Navigation menu
 date: '03/30/2017 6:00am'
 metadata:
-  description: This component implements a jumbotron element
+  description: This shortcode implements a jumbotron element
   author: Grav CMS Pro
 
 dictionaries:

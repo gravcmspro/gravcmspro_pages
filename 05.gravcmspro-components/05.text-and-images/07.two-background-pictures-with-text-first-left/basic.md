@@ -1,7 +1,7 @@
 ---
 title: Grav CMS Pro Documentation - Two background pictures with text first left
 slug: two-background-pictures-with-text-first-left
-menu: Two background pictures with text first left
+menu: Two background pictures with text first left (PRO)
 date: '03/30/2017 6:00am'
 metadata:
   description: This component renders a grid that contains an background picture placed on the left and a description text on the right

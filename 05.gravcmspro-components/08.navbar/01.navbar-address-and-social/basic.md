@@ -1,7 +1,7 @@
 ---
 title: Grav CMS Pro Documentation - Navbar with address and social buttons
 slug: navbar-address-and-social
-menu: Navbar with address and social buttons
+menu: Navbar with address and social buttons (PRO)
 date: '03/30/2017 6:00am'
 metadata:
   description: This component renders a rich navbar element with the company address ans social buttons on the too of the navbar

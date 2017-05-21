@@ -4,7 +4,7 @@ slug: link-with-icon
 menu: Link with icon
 date: '03/30/2017 6:00am'
 metadata:
-  description: This component renders a link with an icon
+  description: This shortcode renders a link with an icon
   author: Grav CMS Pro
 
 dictionaries:

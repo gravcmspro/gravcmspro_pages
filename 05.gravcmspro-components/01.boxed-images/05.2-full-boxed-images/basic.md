@@ -1,7 +1,7 @@
 ---
 title: Grav CMS Pro Documentation - 2 full boxed images
 slug: 2-full-boxed-images
-menu: 2 full-boxed images
+menu: 2 full-boxed images (PRO)
 date: '03/30/2017 6:00am'
 metadata:
   description: This component renders a 2 full boxed images that scales when mouse is placed over them and with a nice caption at their bottom

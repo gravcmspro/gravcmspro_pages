@@ -4,7 +4,7 @@ slug: card-revealed
 menu: Card revealed
 date: '03/30/2017 6:00am'
 metadata:
-  description: This component renders a Materializer card revealed component
+  description: This shortcode renders a Materializer card revealed component
   author: Grav CMS Pro
 
 dictionaries:

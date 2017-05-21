@@ -1,7 +1,7 @@
 ---
 title: Grav CMS Pro Documentation - Left inline picture with text
 slug: left-inline-picture-with-text
-menu: Left inline picture with text
+menu: Left inline picture with text (PRO)
 date: '03/30/2017 6:00am'
 metadata:
   description: This component renders a grid that contains an inline picture placed on the left and a description text on the right

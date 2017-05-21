@@ -4,7 +4,7 @@ slug: horizontal-card
 menu: Horizontal Card
 date: '03/30/2017 6:00am'
 metadata:
-  description: This component renders a Materializer horizontal card component
+  description: This shortcode renders a Materializer horizontal card component
   author: Grav CMS Pro
 
 dictionaries:

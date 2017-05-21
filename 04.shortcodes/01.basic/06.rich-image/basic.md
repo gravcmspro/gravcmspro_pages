@@ -1,10 +1,10 @@
 ---
 title: Grav CMS Pro Documentation - Rich image
 slug: rich-image
-menu: Rich image
+menu: Rich image (PRO)
 date: '03/30/2017 6:00am'
 metadata:
-  description: This component renders an image that scales when the mouse is placed over it, with a bottom linked caption
+  description: This shortcode renders an image that scales when the mouse is placed over it, with a bottom linked caption
   author: Grav CMS Pro
 
 dictionaries:
