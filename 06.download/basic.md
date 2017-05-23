@@ -20,10 +20,10 @@ dictionaries:
 [m-grid container="true"]
   [m-grid-row]
     [m-grid-col attributes="class:s12 m12 l12"]
-      ## CENTRE SOFTWARE LICENSE
+      ## Centre license
       Centre software, developed by GravCMS Pro, is released under a proprietary license which applies some restrictions to the use of this software, well explained in that license. [Please read it carefully](/gravcmspro-centre-license) before downloading and using this software.
 
-      ### SUMMARY
+      ### Summary
 
       - License does not expire.
       - Can be distributed and used in a single project
@@ -33,6 +33,12 @@ dictionaries:
       - Attribution to software creator must be made
 
       **You can also buy a commercial license** to remove those restrictions: see [prices table](https://gravcmspro.com/#prices) to get more information.
+
+      ### Download
+      You are just a step closer to get your free Centre copy: simple tell your friends by clicking the "Pay with a tweet" button here below, then start enjoy Centre!
+      [raw]
+        <script async="async" id="button_e541ef4c-6e6c-444f-8077-a76455bfa831" src="//www.paywithatweet.com/embeds/e541ef4c-6e6c-444f-8077-a76455bfa831" charset="utf-8"></script>
+      [/raw]  
     [/m-grid-col]
   [/m-grid-row]
 [/m-grid]
