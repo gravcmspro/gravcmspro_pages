@@ -1,0 +1,26 @@
+---
+published: false
+---
+[m-grid container="true"]
+  [m-grid-row]
+    [m-grid-col attributes="class:s12 m12 l12 center"]
+      D_ACCESS
+    [/m-grid-col]
+  [/m-grid-row]
+  [m-grid-row]
+    [m-grid-col attributes="class:s12 m6 l4 offset-l2"]
+      [m-tag tag="ul"]
+        [m-tag tag="li"][m-icon icon="fa-check"][/m-icon]D_ACCESS_ITEM_1[/m-tag]
+        [m-tag tag="li"][m-icon icon="fa-check"][/m-icon]D_ACCESS_ITEM_2[/m-tag]
+        [m-tag tag="li"][m-icon icon="fa-check"][/m-icon]D_ACCESS_ITEM_3[/m-tag]
+      [/m-tag]      
+    [/m-grid-col]
+    [m-grid-col attributes="class:s12 m6 l4"]
+      [m-tag tag="ul"]
+        [m-tag tag="li"][m-icon icon="fa-check"][/m-icon]D_ACCESS_ITEM_4[/m-tag]
+        [m-tag tag="li"][m-icon icon="fa-check"][/m-icon]D_ACCESS_ITEM_5[/m-tag]
+        [m-tag tag="li"][m-icon icon="fa-check"][/m-icon]D_ACCESS_ITEM_6[/m-tag]
+      [/m-tag]      
+    [/m-grid-col]
+  [/m-grid-row]
+[/m-grid]

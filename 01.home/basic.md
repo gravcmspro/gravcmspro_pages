@@ -23,6 +23,7 @@ content:
             - _requirements
             - _screencast
             - _prices
+            - _membership
             - _contact
             - _interlude_2
 ---

@@ -4,7 +4,6 @@ slug: gravcmspro-centre-download
 menu: Download
 date: '01/01/2014 3:14pm'
 publish_date: '01/23/2015 13:00e'
-published: false
 metadata:
   description: Dowload Grav CMS Pro's Centre application and quicly build your next awesome website
 

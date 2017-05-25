@@ -1,14 +1,14 @@
 ---
-title: Grav CMS Pro Documentation - Jumbotron
-slug: jumbotron
-menu: Jumbotron
+title: Grav CMS Pro Documentation - Parallax
+slug: parallax
+menu: Parallax
 date: '03/30/2017 6:00am'
 metadata:
-  description: This shortcode implements a jumbotron element
+  description: This shortcode implements a parallax element
   author: Grav CMS Pro
 
 dictionaries:
-  - shortcodes.jumbotron.jumbotron
+  - shortcodes.big-images.jumbotron
   - shortcodes.base-elements-documentation
   - shared
 ---
