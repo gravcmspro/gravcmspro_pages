@@ -7,6 +7,14 @@ publish_date: '01/07/2017 6:00am'
 metadata:
   description: Add Material Design capabilities to your website is now made very simple thanks to Grav CMS Pro shortcodes implementation of Materialize framework
   author: Grav CMS Pro
+
+card:
+  dictionary_item: D_MAIN_CONTENT
+  image: 'material-header.jpg'
+  action:
+    url: self
+    label: 'read'
+
 dictionaries:
   - material-plugin
   - shared

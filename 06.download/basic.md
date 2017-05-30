@@ -37,7 +37,12 @@ dictionaries:
       You are just a step closer to get your free Centre copy: simple tell your friends by clicking the "Pay with a tweet" button here below, then start enjoy Centre!
       [raw]
         <script async="async" id="button_e541ef4c-6e6c-444f-8077-a76455bfa831" src="//www.paywithatweet.com/embeds/e541ef4c-6e6c-444f-8077-a76455bfa831" charset="utf-8"></script>
-      [/raw]  
+      [/raw]
+
+      ### Centre updates
+      Updates will be available only to regisered user so, if you will keep your Centre application updated, please compile the form here below.
+
+      [m-mautic template="mautic/_subscribe.html.twig"][/m-mautic]
     [/m-grid-col]
   [/m-grid-row]
 [/m-grid]

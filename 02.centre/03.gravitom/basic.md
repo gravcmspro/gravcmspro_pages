@@ -7,6 +7,14 @@ publish_date: '01/07/2017 6:00am'
 metadata:
   description: Gravitom Atom plugin implements a simple interface to handle Material plugin shortcodes and allow the full control on website contents
   author: Grav CMS Pro
+
+card:
+  dictionary_item: D_MAIN_CONTENT
+  image: 'documentation-header.jpg'
+  action:
+    url: self
+    label: 'read'
+
 dictionaries:
   - gravitom
   - shared

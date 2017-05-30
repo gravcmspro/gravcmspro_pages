@@ -7,6 +7,14 @@ publish_date: '01/07/2017 6:00am'
 metadata:
   description: Rocketeer handles both the full website deployment process and the website caching using the Warmup plugin, to make the site always fast to open
   author: Grav CMS Pro
+
+card:
+  dictionary_item: D_MAIN_CONTENT
+  image: 'documentation-header.jpg'
+  action:
+    url: self
+    label: 'read'
+
 dictionaries:
 - website-deployment
 - shared
