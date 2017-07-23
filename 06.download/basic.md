@@ -8,7 +8,7 @@ metadata:
   description: Dowload Grav CMS Pro's Centre application and quicly build your next awesome website
 
 dictionaries:
-  - gravcmspro-components
+  - gravcmspro-download
   - shared
 ---
 
@@ -19,7 +19,8 @@ dictionaries:
 [m-grid container="true"]
   [m-grid-row]
     [m-grid-col attributes="class:s12 m12 l12"]
-      ## Centre license
+      ## Download Centre Free edition
+
       Centre software, developed by GravCMS Pro, is released under a proprietary license which applies some restrictions to the use of this software, well explained in that license. [Please read it carefully](/gravcmspro-centre-license) before downloading and using this software.
 
       ### Summary
@@ -34,13 +35,11 @@ dictionaries:
       **You can also buy a commercial license** to remove those restrictions: see [prices table](https://gravcmspro.com/#prices) to get more information.
 
       ### Download
-      You are just a step closer to get your free Centre copy: simple tell your friends by clicking the "Pay with a tweet" button here below, then start enjoy Centre!
-      [raw]
-        <script async="async" id="button_e541ef4c-6e6c-444f-8077-a76455bfa831" src="//www.paywithatweet.com/embeds/e541ef4c-6e6c-444f-8077-a76455bfa831" charset="utf-8"></script>
-      [/raw]
+      Get the latest Centre Free edition from here:
 
-      ### Centre updates
-      Updates will be available only to regisered user so, if you will keep your Centre application updated, please compile the form here below.
+      **Centre 1.0.0 Available shortly**
+
+      D_SUBSCRIBE_FORM
 
       [m-mautic template="mautic/_subscribe.html.twig"][/m-mautic]
     [/m-grid-col]
