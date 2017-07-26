@@ -19,7 +19,7 @@ dictionaries:
 [m-grid container="true"]
   [m-grid-row]
     [m-grid-col attributes="class:s12 m12 l12"]
-      [m-mautic template="mautic/_subscribe.html.twig"][/m-mautic]
+      [m-mautic template="mautic/_preorder.html.twig"][/m-mautic]
     [/m-grid-col]
   [/m-grid-row]
 [/m-grid]
