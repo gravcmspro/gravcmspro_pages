@@ -1,6 +1,5 @@
 ---
 title: Grav CMS Pro download
-slug: preorder-success
 date: '01/01/2014 3:14pm'
 publish_date: '01/23/2015 13:00e'
 visible: false
@@ -19,7 +18,7 @@ dictionaries:
 [m-grid container="true"]
   [m-grid-row]
     [m-grid-col attributes="class:s12 m12 l12"]
-      Order confirmed
+      [m-mautic template="mautic/_preorder.html.twig"][/m-mautic]
     [/m-grid-col]
   [/m-grid-row]
 [/m-grid]

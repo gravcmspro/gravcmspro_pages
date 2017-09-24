@@ -7,7 +7,7 @@ publish_date: '01/07/2017 6:00am'
 metadata:
   description: To share contents through the website, Grav CMS Pro implements the Components technology, a convenient way to pack complex shortcodes structures into reusable items
   author: Grav CMS Pro
-  
+
 dictionaries:
   - shared-contents
   - shared
@@ -18,3 +18,4 @@ dictionaries:
 <| SHARED.SIDENAV_DOCUMENTATION |>
 <| SHARED.GRID_TWO_COLUMNS |>
 <| SHARED.FOOTER |>
+<| SHARED.VENDOR_SCRIPTS |>

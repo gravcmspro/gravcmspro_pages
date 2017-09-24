@@ -49,3 +49,4 @@ dictionaries:
 [/m-tag]
 
 <| SHARED.FOOTER |>
+<| SHARED.VENDOR_SCRIPTS |>

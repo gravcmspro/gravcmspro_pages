@@ -18,7 +18,7 @@ dictionaries:
 [m-grid container="true"]
   [m-grid-row]
     [m-grid-col attributes="class:s12 m12 l12"]
-      [m-mautic template="mautic/_preorder.html.twig"][/m-mautic]
+      [m-mautic template="mautic/_preorder_subscribed.html.twig"][/m-mautic]
     [/m-grid-col]
   [/m-grid-row]
 [/m-grid]
@@ -30,6 +30,8 @@ dictionaries:
   image: The image name with the extension. Set a blank value for no image
   image-path: The image directory
 [/m-help]
-[m-tag tag="script" attributes="type:text/javascript"]document.getElementById('form-preorder').submit();[/m-tag]
+[m-tag tag="script" attributes="type:text/javascript"]document.getElementById('form-preorder').submit();
+[/m-tag]
 
 <| SHARED.FOOTER |>
+<| SHARED.VENDOR_SCRIPTS |>

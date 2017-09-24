@@ -24,3 +24,4 @@ dictionaries:
 [/m-component]  
 
 <| SHARED.FOOTER |>
+<| SHARED.VENDOR_SCRIPTS |>

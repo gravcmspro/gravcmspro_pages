@@ -86,3 +86,4 @@ dictionaries:
 [/m-grid]
 
 <| SHARED.FOOTER |>
+<| SHARED.VENDOR_SCRIPTS |>
