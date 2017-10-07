@@ -29,8 +29,6 @@ content:
 ---
 
 <| SHARED.NAVBAR |>
-
-
 [m-component component="jumbotron-no-scrolldown" folder="jumbotron" M_PATH="images" M_IMAGE="home.jpg" M_BLURRED_IMAGE=""  M_HEIGHT="three-quarters" M_BACKGROUND_ATTACHED="true" M_CONTAINER="true" M_ATTRIBUTES="class:s12 m7 l6 padding-medium"]  
   D_HEADER_JUMBOTRON
 [/m-component]
