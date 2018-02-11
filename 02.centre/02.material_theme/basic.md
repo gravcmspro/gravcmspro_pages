@@ -16,7 +16,7 @@ card:
     label: 'read'
 
 dictionaries:
-  - material-theme
+  - centre-theme
   - shared
 ---
 

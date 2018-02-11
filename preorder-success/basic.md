@@ -13,13 +13,16 @@ dictionaries:
 ---
 
 <| SHARED.NAVBAR |>
-<| SHARED.DOCUMENTATION_HEADER |>
+<| SHARED.PREORDER_HEADER |>
 <| SHARED.SIDENAV_CENTRE |>
 
 [m-grid container="true"]
   [m-grid-row]
-    [m-grid-col attributes="class:s12 m12 l12"]
-      Order confirmed
+    [m-grid-col attributes="class:s12 m12 l12 margin-top-bottom-large"]
+      # Preorder confirmed
+      Thank you! Your pre order has been confirmed.
+
+      You should receive a confirmation email shortly. If you do not receive any mail, please check you spam folder.
     [/m-grid-col]
   [/m-grid-row]
 [/m-grid]

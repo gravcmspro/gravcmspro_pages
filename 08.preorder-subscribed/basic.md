@@ -1,10 +1,10 @@
 ---
-title: Grav CMS Pro download
+title: Centre preorder for subscribed users
 date: '01/01/2014 3:14pm'
 publish_date: '01/23/2015 13:00e'
 visible: false
 metadata:
-  description: Grav CMS Pro's Centre license
+  description: Grav CMS Pro's Centre preorder module for subscribed users
 
 dictionaries:
   - gravcmspro-components
@@ -12,7 +12,7 @@ dictionaries:
 ---
 
 <| SHARED.NAVBAR |>
-<| SHARED.DOCUMENTATION_HEADER |>
+<| SHARED.PREORDER_HEADER |>
 <| SHARED.SIDENAV_CENTRE |>
 
 [m-grid container="true"]
@@ -23,15 +23,7 @@ dictionaries:
   [/m-grid-row]
 [/m-grid]
 
-[m-help]
-  Main component properties
-  tag: the html tag to display. Accepts all html tags. Example tag="div"
-  attributes: Adds html attributes to element. Example attributes="class: foo, rel=bar"
-  image: The image name with the extension. Set a blank value for no image
-  image-path: The image directory
-[/m-help]
-[m-tag tag="script" attributes="type:text/javascript"]document.getElementById('form-preorder').submit();
-[/m-tag]
+[m-tag tag="script" attributes="type:text/javascript"]document.getElementById('mauticform_preordersubscribed').submit();[/m-tag]
 
 <| SHARED.FOOTER |>
 <| SHARED.VENDOR_SCRIPTS |>

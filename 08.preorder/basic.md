@@ -1,10 +1,10 @@
 ---
-title: Grav CMS Pro download
+title: Centre preorder
 date: '01/01/2014 3:14pm'
 publish_date: '01/23/2015 13:00e'
 visible: false
 metadata:
-  description: Grav CMS Pro's Centre license
+  description: Grav CMS Pro's Centre preorder module
 
 dictionaries:
   - gravcmspro-components
@@ -12,7 +12,7 @@ dictionaries:
 ---
 
 <| SHARED.NAVBAR |>
-<| SHARED.DOCUMENTATION_HEADER |>
+<| SHARED.PREORDER_HEADER |>
 <| SHARED.SIDENAV_CENTRE |>
 
 [m-grid container="true"]

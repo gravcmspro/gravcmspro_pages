@@ -10,7 +10,7 @@
   [m-component-item name="M_BOX_1" M_IMAGE_SRC="material-plugin.jpg" M_URL=""]
       D_CENTRE_BOX_1  
   [/m-component-item]
-  [m-component-item name="M_BOX_2" M_IMAGE_SRC="material-theme.jpg" M_URL=""]
+  [m-component-item name="M_BOX_2" M_IMAGE_SRC="centre-theme.jpg" M_URL=""]
       D_CENTRE_BOX_2
   [/m-component-item]
   [m-component-item name="M_BOX_3" M_IMAGE_SRC="home-atom-plugin.jpg" M_URL=""]

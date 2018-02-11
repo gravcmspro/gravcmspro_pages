@@ -37,7 +37,7 @@ dictionaries:
       ### Download
       Get the latest Centre Free edition from here:
 
-      **Centre 1.0.0 Available shortly**
+      [Download Centre 1.0.0](https://gravcmspro.com/getit/centre/centre-free-1.0.0.tar.gz)
 
       D_SUBSCRIBE_FORM
 
