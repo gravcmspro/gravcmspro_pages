@@ -39,9 +39,6 @@ dictionaries:
 
       [Download Centre 1.0.0](https://gravcmspro.com/getit/centre/centre-free-1.0.0.tar.gz)
 
-      D_SUBSCRIBE_FORM
-
-      [m-mautic template="mautic/_subscribe.html.twig"][/m-mautic]
     [/m-grid-col]
   [/m-grid-row]
 [/m-grid]
