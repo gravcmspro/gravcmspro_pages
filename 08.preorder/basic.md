@@ -3,6 +3,7 @@ title: Centre preorder
 date: '01/01/2014 3:14pm'
 publish_date: '01/23/2015 13:00e'
 visible: false
+cache_enable: false
 metadata:
   description: Grav CMS Pro's Centre preorder module
 
