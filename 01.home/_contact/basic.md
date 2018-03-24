@@ -1,8 +1,10 @@
+[m-help]
 [m-component component="jumbotron-no-scrolldown" folder="jumbotron" M_IMAGE="subscribe.jpg" M_IMAGE_BLURRED="" M_PATH="images" M_HEIGHT="full" M_ATTRIBUTES="class:s12 m12 l8 offset-l2 text-black subscribe"]
     D_RELEASE
 
     [m-mautic template="mautic/_subscribe.html.twig"][/m-mautic]
 [/m-component]
+[/m-help]
 
 [m-tag tag="div" attributes="class:grey lighten-4"]
   [m-grid]
